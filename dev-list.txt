@@ -1,3 +1,4 @@
 JAN 31
 BIG DAY
 DAY NUMBER 1
+This is my first day at Dev Academy.
